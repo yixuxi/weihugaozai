@@ -1,5 +1,7 @@
 # 危乎高哉
 
+<img src="./85A077BB-1629-4819-8008-6F5EF6FBFA17.jpg" width="200">
+
 一个用来存放思想和空想的乐园。  
 An aggregate of thought and fantasy.
 
